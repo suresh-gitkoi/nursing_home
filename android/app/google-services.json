@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210116982595",
+    "project_id": "nursinghome-login",
+    "storage_bucket": "nursinghome-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210116982595:android:4086459deee29fb65d61f6",
+        "android_client_info": {
+          "package_name": "com.example.nursing_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjeHbz-bxpPg66In41T3V3fwVxPlzc40g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
