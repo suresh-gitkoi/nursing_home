@@ -25,14 +25,14 @@ class Homescreen extends StatelessWidget {
     ),
     Person(
       name: 'Sarah Smith',
-      age: 32,
+      age: 92,
       description:
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Iaculis nunc sed augue lacus viverra vitae congue.',
       image: '2.jpg',
     ),
     Person(
       name: 'David Taylor',
-      age: 45,
+      age: 75,
       description:
           'Elementum sagittis vitae et leo duis ut diam. Eu sem integer vitae justo eget. Vel turpis nunc eget lorem dolor sed viverra. Ac turpis egestas sed tempus urna et.',
       image: '4.jpeg',
